@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class StemAndLeaf {
     public void inputHeights(){
         Scanner scanner = new Scanner(System.in);
